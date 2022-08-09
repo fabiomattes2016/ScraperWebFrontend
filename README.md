@@ -6,15 +6,22 @@ Para rodar:
 
 
 Antes de mais nada, se a API estiver rodando localmente procure o arquivo de services:
+
 src\services\webScraper.ts
+
 Altere a url base
+
 ex.: baseURL: "https://apiwebscraper.azurewebsites.net",
+
 salve e proceda para a execução
 
 
 Faça o clone do repositório
+
 via terminal ou console acessa a pasta com os códigos fontes
+
 execute o comando npm i
+
 execute o comando npm run dev
 
 
