@@ -29,3 +29,5 @@ execute o comando npm run dev
 
 Lembre-se o Google não aceita muitas requests em pesquisas e acaba bloqueando o acesso por IP,
 caso aconteça, será necessário atualizar o IP do local onde a API está sendo executada.
+
+Caso queira rodar sem baixar: https://scraper-web-frontend.vercel.app/
