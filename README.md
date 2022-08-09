@@ -1,6 +1,8 @@
 # ScraperWebFrontend
 Frontend para buscador de resultados do Google sem uso de API's
 
+Desenvolvido em ReactJS, será necessário ter o nodejs instalado
+
 
 Para rodar:
 
